@@ -8,10 +8,10 @@ add sv_acidtrip file to [qb]\qb-smallresources\server
 https://github.com/meta-hub/fivem-acidtrip
 
 
-#Preview: 
+# Preview: 
 https://streamable.com/21g1h
 
-#discord 
+# discord 
 https://discord.gg/RMzhV2u4K8
 
 
